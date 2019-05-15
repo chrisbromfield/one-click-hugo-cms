@@ -1,7 +1,7 @@
 ---
 title: Welcome to Vorsor
 subtitle: Competent delivery and management of all aspects of facilities services.
-image: /img/4966-19-vorsor-van2yellow.jpg
+image: /img/ant-rozetsky-272965-unsplash.jpg
 blurb:
   heading: Why Vorsor?
   text: >-
