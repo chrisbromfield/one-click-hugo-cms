@@ -1,6 +1,9 @@
 ---
-title: Welcome to Vorsor
-subtitle: Competent delivery and management of all aspects of facilities services.
+title: Facilities services made simple.
+subtitle: >-
+  Through the latest technology and greater innovation we improve your service,
+  manage risk, reduce overheads and increase responsiveness. We deliver more
+  flexibility, freeing up your time and resources to focus on what you do best.
 image: /img/untitled-design-3-.png
 blurb:
   heading: Why Vorsor?
