@@ -46,11 +46,10 @@ products:
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat. 
 values:
-  heading: Our values
+  heading: CUT YOUR LABOUR COSTS
   text: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
+    Keeping your operational cost down is key. Labour forms a large share of any
+    company’s expenditure and VORSOR can reduce this cost without affecting pay
+    or workers’ rights.
 ---
 
