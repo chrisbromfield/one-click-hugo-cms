@@ -1,11 +1,15 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/vorsor-logo-yellow.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: |-
+      Somerton House, 
+      Hazel Drive,
+      Newport
+      NP10 8FY
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 'Monday – Saturday: 8AM – 6PM '
 ---
 
 We’d love to get in touch with you and hear your ideas and
