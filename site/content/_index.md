@@ -7,7 +7,7 @@ subtitle: >-
 image: /img/untitled-design-3-.png
 blurb:
   heading: Why Vorsor?
-  text: >-
+  text: >
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Elementum eu facilisis
     sed odio morbi. Dolor sit amet consectetur adipiscing elit pellentesque
@@ -16,15 +16,6 @@ blurb:
     scelerisque purus. Enim nulla aliquet porttitor lacus. Sit amet mauris
     commodo quis imperdiet massa. Amet aliquam id diam maecenas ultricies mi
     eget mauris pharetra. 
-
-
-    Adipiscing tristique risus nec feugiat in. In metus vulputate eu scelerisque
-    felis imperdiet proin. Convallis aenean et tortor at risus viverra.
-    Imperdiet proin fermentum leo vel orci porta non pulvinar neque. Lacus
-    viverra vitae congue eu consequat. Id semper risus in hendrerit gravida
-    rutrum quisque. Commodo viverra maecenas accumsan lacus. Nunc sed blandit
-    libero volutpat. Dignissim suspendisse in est ante in nibh mauris.
-    Vestibulum lectus mauris ultrices eros in cursus turpis.
 intro:
   heading: What we offer
   text: >-
