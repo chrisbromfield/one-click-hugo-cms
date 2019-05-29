@@ -10,7 +10,7 @@
 
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       <p class= mw7>{{ .Description }}</p><hr>
-      {{ .Content }}
+      <p class= "mw7 pt4">{{ .Content }}</p>
     </div>
   </div>
 {{ end }}
