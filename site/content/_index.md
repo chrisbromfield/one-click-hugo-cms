@@ -4,7 +4,7 @@ subtitle: >-
   Through the latest technology and greater innovation we improve your service,
   manage risk, reduce overheads and increase responsiveness. We deliver more
   flexibility, freeing up your time and resources to focus on what you do best.
-image: /img/untitled-design-3-.png
+image: /img/polygon-vorsor.png
 blurb:
   heading: Why Vorsor?
   text: >
